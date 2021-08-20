@@ -26,6 +26,8 @@ In parent category theater, its performance is reviewed according to its launch 
 4. use of pivot tables to pull relevant data for analysis.
 5. Transfer table into line chart to see performance. 
 
+![github-small]https://github.com/MonaElahi/Kickstarter-Analysis/blob/b5aaeaa361de91a69f708b26ff9b8e495b1396ea/Theater_Outcomes_vs_Launch.png
+
 
 
 
@@ -41,6 +43,9 @@ Goals will be sorted into ranges, also total number of plays and their outcomes;
 5. Make a column of the total project.  
 6. Calculate percentages of outcomes.
 7. From table Outcomes by goal, insert line chart. 
+
+
+![github-small]https://github.com/MonaElahi/Kickstarter-Analysis/blob/b5aaeaa361de91a69f708b26ff9b8e495b1396ea/Outcomes_vs_Goals.png
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -88,6 +93,15 @@ Use of filters in charts can help to see most active countries where campaigns a
 **Findings:**
 1. USA and Great Britain are the most active and favourable countries to launch campaigns 
 2. For subcategory _"PLays"_ outcomes are better in Great Britain as compared to the USA.
+
+![github-small]https://github.com/MonaElahi/Kickstarter-Analysis/blob/b5aaeaa361de91a69f708b26ff9b8e495b1396ea/Country%20Outcome.png
+
+
+
+
+
+![github-small]https://github.com/MonaElahi/Kickstarter-Analysis/blob/b5aaeaa361de91a69f708b26ff9b8e495b1396ea/Outcomes%20based%20on%20launch%20date.png
+
 
 
 
