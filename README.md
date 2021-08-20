@@ -6,7 +6,7 @@
 First module Kickstarter
 
 # Kickstarting with Excel
-Kickstarter with Excel module 1. Excel is a useful tool to sort and arrange large data in order to pull relevant information. Built-in Arithmetic operations help to calculate data. Variety of built in FUNCTIONS are predefined FORMULAS which save time as our own calculation takes many steps to produce results. There are many features to organise data for example Filter can pull required data in no time,  it can be arranged to make tables, which are easily readable and can be transformed into a variety of graphical images.         
+Kickstarter with Excel module 1. Excel is a useful tool to sort and arrange large data in order to pull relevant information. Built-in Arithmetic operations help to calculate data. Variety of built in FUNCTIONS are predefined_ FORMULAS _which save time as our own calculation takes many steps to produce results. There are many features to organise data for example Filter can pull required data in no time,  it can be arranged to make tables, which are easily readable and can be transformed into a variety of graphical images.         
 
 
 ## Overview of Project
@@ -19,7 +19,7 @@ The purpose of this project is to analyze the outcomes of the fundraising event 
 ## Analysis and Challenges
 Outcomes Based on Launch Date:
 In parent category theater, its performance is reviewed according to its launch date. Number of projects in the theater category and their outcomes as per launch date will be analyzed.
-Challenges: 
+**Challenges: **
 1. Learn how to apply filters to pull relevant data. 
 2. Separate parent category from a master category.
 3. Change unix date into human readable format. 
@@ -33,7 +33,7 @@ Outcomes Based on Goals:
 In Subcategory "Plays" performance will be reviewed according to goal range.
 Goals will be sorted into ranges, also total number of plays and their outcomes; successful, failed and cancelled. Later outcomes will be converted into percentages.
 
-Challenges:
+**Challenges:**
 1. Manually range the goals
 2. Separate sub category from main category.
 3. apply filters to pull plays in subcategory and number of outcomes.
@@ -82,12 +82,12 @@ One of the limitations in this dataset is that we don't have any information reg
 - What are some other possible tables and/or graphs that we could create?
 Highly recommended to also consider how campaigns performed in different countries. To review we need the following.
 Pivot table data columns:
-Country, outcomes and subcategory "plays" should be selected from kickstarter for consideration.
-Chart:
+Country, outcomes and subcategory_ _"plays"__ should be selected from kickstarter for consideration.
+**Chart:**
 Use of filters in charts can help to see most active countries where campaigns are successful.
-Findings:
+**Findings:**
 1. USA and Great Britain are the most active and favourable countries to launch campaigns 
-2. For subcategory "PLays" outcomes are better in Great Britain as compared to the USA.
+2. For subcategory _"PLays"_ outcomes are better in Great Britain as compared to the USA.
 
 
 
